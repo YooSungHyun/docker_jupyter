@@ -1,0 +1,24 @@
+# dependencies same as production server
+autopep8
+certifi
+Cython
+matplotlib
+pycodestyle
+pyparsing
+python-crontab
+pytz
+scipy
+sqlparse
+urllib3
+# main pkgs
+requests
+python-dateutil
+numpy
+pandas
+psutil
+python-pidfile
+konlpy
+nltk
+koalanlp
+krwordrank
+wordcloud
